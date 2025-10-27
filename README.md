@@ -126,7 +126,7 @@ le faire et le mettre de le dossier MCD
 
 ##  Bonnes pratiques de collaboration
 
-* Ne **poussez jamais vos fichiers de configuration locale** (base de données, chemins spécifiques…).
+* Ne **poussez jamais vos fichiers de configuration locale** (base de données, chemins spécifiques…) (ou commenter le).
 * Utilisez les **commentaires** pour indiquer vos modifications locales.
 * **Stashez** les fichiers sensibles avant de faire un commit.
 * Respectez la structure MVC pour garder le projet clair et maintenable.
